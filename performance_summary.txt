@@ -1,0 +1,30 @@
+=== NOVAMIND CAMPAIGN PERFORMANCE SUMMARY ===
+Report generated: 2026-04-14 16:14:59
+
+Persona: Creative Agency Owner
+  Subject: Save 10 Hours a Week — Without Hiring Anyone New
+  Open Rate: 48%
+  Click Rate: 9%
+  Unsubscribe Rate: 4%
+
+Persona: Freelance Designer or Marketer
+  Subject: Stop Doing the Boring Stuff. Let AI Handle It.
+  Open Rate: 54%
+  Click Rate: 8%
+  Unsubscribe Rate: 1%
+
+Persona: Tech-Savvy Operations Manager
+  Subject: Integrate. Automate. Optimize. NovaMind for Ops Teams.
+  Open Rate: 24%
+  Click Rate: 6%
+  Unsubscribe Rate: 3%
+
+=== AI RECOMMENDATIONS ===
+🏆 Best performing: Creative Agency Owner with 9% click rate.
+   → Recommend more content like this for this audience next week.
+
+⚠️  Lowest performing: Tech-Savvy Operations Manager with 6% click rate.
+   → Recommend testing a new subject line and adding visual case studies.
+
+📌 Next blog topic: 'How Creative Agencies Cut Costs by 30% Using AI Automation'
+📌 Alternative topic: '5 Zapier-Style Automations Every Freelancer Should Set Up Today'

@@ -1,0 +1,29 @@
+[
+  {
+    "persona": "Creative Agency Owner",
+    "subject_line": "Save 10 Hours a Week \u2014 Without Hiring Anyone New",
+    "send_date": "2026-04-14 16:14:59",
+    "emails_sent": 100,
+    "open_rate": 0.48,
+    "click_rate": 0.09,
+    "unsubscribe_rate": 0.04
+  },
+  {
+    "persona": "Freelance Designer or Marketer",
+    "subject_line": "Stop Doing the Boring Stuff. Let AI Handle It.",
+    "send_date": "2026-04-14 16:14:59",
+    "emails_sent": 100,
+    "open_rate": 0.54,
+    "click_rate": 0.08,
+    "unsubscribe_rate": 0.01
+  },
+  {
+    "persona": "Tech-Savvy Operations Manager",
+    "subject_line": "Integrate. Automate. Optimize. NovaMind for Ops Teams.",
+    "send_date": "2026-04-14 16:14:59",
+    "emails_sent": 100,
+    "open_rate": 0.24,
+    "click_rate": 0.06,
+    "unsubscribe_rate": 0.03
+  }
+]
