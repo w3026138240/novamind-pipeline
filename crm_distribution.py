@@ -3,8 +3,8 @@ from mailchimp_marketing.api_client import ApiClientError
 import json
 from datetime import datetime
 
-API_KEY = "2ca5e5f2bef7286e6db2afe015de4246-us7"
-AUDIENCE_ID = "3c26755da3"
+API_KEY = "your-mailchimp-api-key-here"
+AUDIENCE_ID = "your-audience-id-here"
 
 # Load the content we generated in Step 1
 with open("content_output.json", "r") as f:
